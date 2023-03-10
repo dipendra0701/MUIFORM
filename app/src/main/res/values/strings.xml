@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Userform</string>
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_mobno">Mobile Number</string>
+    <string name="hint_almobno">Alternative Mobile Number</string>
+    <string name="hint_email">Email-Id</string>
+    <string name="txt_gender">Gender</string>
+    <string name="txt_hobbies">Hobbies</string>
+    <string name="txt_male">Male</string>
+    <string name="txt_female">Female</string>
+    <string name="txt_other">Others</string>
+    <string name="txt_program">Programming</string>
+    <string name="txt_travelling">Travelling</string>
+    <string name="txt_playing">Playing Soccer</string>
+    <string name="txt_readingNobels">Reading Nobels</string>
+    <string name="txt_watchmovies">Watching Movies</string>
+    <string name="btn_submit">Submit</string>
+
+
 </resources>
